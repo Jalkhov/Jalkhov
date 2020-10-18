@@ -1,18 +1,37 @@
-### ¡Hola! 👋
+<div style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
+<h2 align='center'> ¡Hola!</h2>
+<p align='center' style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
+<b>Soy Pedro Torcatt.</b>
+</p>
+</div>
 
-<!--
-**Jalkhov/Jalkhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center' style="color:#004D40; font-family: 'Courier New', Courier, monospace; text-align:center;"><b>o...</b>
+<pre align='center' style="font-family: 'Lucida Console'; font-size:8px; color:white; background-color:#004D40">
+     ██╗ █████╗ ██╗     ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗
+     ██║██╔══██╗██║     ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║
+     ██║███████║██║     █████╔╝ ███████║██║   ██║██║   ██║
+██   ██║██╔══██║██║     ██╔═██╗ ██╔══██║██║   ██║╚██╗ ██╔╝
+╚█████╔╝██║  ██║███████╗██║  ██╗██║  ██║╚██████╔╝ ╚████╔╝ 
+ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  </pre>
 
-Here are some ideas to get you started:
+````bash
+> help --info
+> Un 'daltónico' amante de 'Python' y la automatización de tareas.
+> Actualmente aprendiendo 'PyQt5'.
+> Doy más importancia al 'Back-end' que al 'Front-end'.
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> facebook: www.facebook.com/Jalkhov
+> instagram: Jalkhov
+> github: Jalkhov
+> twitter: @Jalkhov
+> email: pedrotorcattsoto@gmail.com
+````
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Jalkhov)](https://github.com/LordDashMe/github-contribution-stats/)
+````bash
+> help --donate
+> paypal: pedrotorcattsoto@gmail.com
+> buyme a coffie: Jalkhov
+````
