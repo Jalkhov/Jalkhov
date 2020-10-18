@@ -26,12 +26,19 @@
 > facebook: www.facebook.com/Jalkhov
 > instagram: Jalkhov
 > github: Jalkhov
-> twitter: @Jalkhov
+> twitter: Jalkhov
 > email: pedrotorcattsoto@gmail.com
 ````
 
 ````bash
 > help --donate
 > paypal: pedrotorcattsoto@gmail.com
-> buyme a coffie: Jalkhov
+> buy me a coffee: https://www.buymeacoffee.com/Jalkhov
+````
+
+````bash
+> help --other
+> También soy amante del 'Photoshop', pásate por mis cuentas de diseño ;)
+> instagram: Daltodesigns
+> facebook: www.facebook.com/daltodesigns
 ````
