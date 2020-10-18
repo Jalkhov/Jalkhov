@@ -6,7 +6,7 @@
 </div>
 
 <p align='center' style="color:#004D40; font-family: 'Courier New', Courier, monospace; text-align:center;"><b>o...</b>
-<pre align='center' style="font-family: 'Lucida Console'; font-size:8px; color:white; background-color:#004D40">
+<pre align='center' style="font-family: 'Courier New', Courier, monospace;; font-size:8px;";>
      ██╗ █████╗ ██╗     ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗
      ██║██╔══██╗██║     ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║
      ██║███████║██║     █████╔╝ ███████║██║   ██║██║   ██║
