@@ -16,9 +16,8 @@
 
 ````bash
 > help --info
-> Un 'daltónico' amante de 'Python' y la automatización de tareas.
-> Actualmente aprendiendo 'PyQt5'.
-> Doy más importancia al 'Back-end' que al 'Front-end'.
+> Amante del Back-end
+> Programador en Python, C#.
 ````
 
 ````bash
