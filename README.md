@@ -1,9 +1,10 @@
 <div style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
 <h2 align='center'> ¡Hola!</h2>
 <p align='center' style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
-<b>Soy Pedro Torcatt.</b>
+<b>Soy Pedro Torcatt</b>
 </p>
 </div>
+
 
 <p align='center' style="color:#004D40; font-family: 'Courier New', Courier, monospace; text-align:center;"><b>o...</b>
 <pre align='center' style="font-family: 'Courier New', Courier, monospace;; font-size:8px;";>
@@ -17,15 +18,16 @@
 ````bash
 > help --info
 > Amante del Back-end
-> Programador en Python, C#.
+> Programador en Python
+> Actualmente aprendiendo: C# y Go
 ````
 
 ````bash
 > help --contact
 > facebook: www.facebook.com/Jalkhov
 > instagram: Jalkhov
-> github: Jalkhov
 > twitter: Jalkhov
+> linktr: linktr.ee/Jalkhov
 > email: pedrotorcattsoto@gmail.com
 ````
 
