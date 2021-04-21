@@ -43,3 +43,5 @@
 > instagram: Daltodesigns
 > facebook: www.facebook.com/daltodesigns
 ````
+
+[![trophy](https://github-profile-trophy.vercel.app/?jalkhov=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
