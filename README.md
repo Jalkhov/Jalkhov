@@ -1,7 +1,5 @@
 <p align="center"><img src="Hola,_soy_Pedro_Torcatt.png"></p>
 
-<p align="center">Hola, soy <b>Pedro Torcatt</b></p>
-
 <hr>
 
 ### Social
@@ -18,6 +16,7 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/Jalkhov"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
+
 ### Mis estadísticas
 
 <p align="center">
