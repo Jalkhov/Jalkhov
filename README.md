@@ -1,6 +1,14 @@
 <p align="center"><img src="banner.gif"></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@jalkhov-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/jalkhov) [![PyPI](https://img.shields.io/badge/PyPi-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)](https://pypi.org/user/jalkhov/) [![Linkedin Badge](https://img.shields.io/badge/-jalkhov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalkhov/) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jalkhov) [![MAIL Badge](https://img.shields.io/badge/-pedrotorcattsoto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrotorcattsoto@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://instagram.com/gabor_bernat) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabor_bernat)
+<div align="center">
+    <img src="https://img.shields.io/badge/-@jalkhov-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/PyPi-FFD43B?style=flat-square&logo=python&logoColor=darkgreen">
+    <img src="https://img.shields.io/badge/-jalkhov-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/-pedrotorcattsoto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</div>
 
 <hr>
 
