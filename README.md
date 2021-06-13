@@ -1,47 +1,30 @@
-<div style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
-<h2 align='center'> ¡Hola!</h2>
-<p align='center' style="font-family: 'Courier New', Courier, monospace; color:#004D40;">
-<b>Soy Pedro Torcatt</b>
+<p align="center"><img src="Hola,_soy_Pedro_Torcatt.png"></p>
+
+<p align="center">Hola, soy <b>Pedro Torcatt</b></p>
+
+<hr>
+
+### Social
+
+[![Twitter Badge](https://img.shields.io/badge/-@jalkhov-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/jalkhov) [![PyPI](https://img.shields.io/badge/PyPi-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)](https://pypi.org/user/jalkhov/) [![Linkedin Badge](https://img.shields.io/badge/-jalkhov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalkhov/) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jalkhov) [![MAIL Badge](https://img.shields.io/badge/-pedrotorcattsoto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedrotorcattsoto@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://instagram.com/gabor_bernat)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabor_bernat)
+
+
+### Proyectos de codigo abierto donde soy mantenedor
+
+| Name                                                         | Release                                                      | License                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![PyPI](https://flat.badgen.net/badge/Jamstack/Python/green)](https://github.com/Abdur-rahmaanJ/jamstack) | [![PyPI](https://flat.badgen.net/github/release/Abdur-rahmaanJ/jamstack?label=PyPi)](https://pypi.org/project/jamstack) | [![PyPI](https://flat.badgen.net/badge/license/MIT/blue)](https://github.com/Abdur-rahmaanJ/jamstack/blob/stable/LICENSE) |
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/Jalkhov"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
-</div>
+### Mis estadísticas
 
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Jalkhov&theme=shades-of-purple&hide_border=true">
+</p>
 
-<p align='center' style="color:#004D40; font-family: 'Courier New', Courier, monospace; text-align:center;"><b>o...</b>
-<pre align='center' style="font-family: 'Courier New', Courier, monospace;; font-size:8px;";>
-     ██╗ █████╗ ██╗     ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗
-     ██║██╔══██╗██║     ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║
-     ██║███████║██║     █████╔╝ ███████║██║   ██║██║   ██║
-██   ██║██╔══██║██║     ██╔═██╗ ██╔══██║██║   ██║╚██╗ ██╔╝
-╚█████╔╝██║  ██║███████╗██║  ██╗██║  ██║╚██████╔╝ ╚████╔╝ 
- ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  </pre>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalkhov&theme=radical">
+</p>
 
-````bash
-> help --info
-> Amante del Back-end
-> Programador en Python
-> Actualmente aprendiendo: C# y Go
-````
-
-````bash
-> help --contact
-> facebook: www.facebook.com/Jalkhov
-> instagram: Jalkhov
-> twitter: Jalkhov
-> linktr: linktr.ee/Jalkhov
-> email: pedrotorcattsoto@gmail.com
-````
-
-````bash
-> help --donate
-> paypal: pedrotorcattsoto@gmail.com
-> buy me a coffee: https://www.buymeacoffee.com/Jalkhov
-````
-
-````bash
-> help --other
-> También soy amante del 'Photoshop', pásate por mis cuentas de diseño ;)
-> instagram: Daltodesigns
-> facebook: www.facebook.com/daltodesigns
-````
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jalkhov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
