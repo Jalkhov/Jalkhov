@@ -16,7 +16,7 @@
 
 | Nombre                                                       | Release                                                      | Último commit                                                | Licencia                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![PyPI](https://flat.badgen.net/badge/Jamstack/Python/green)](https://github.com/Abdur-rahmaanJ/jamstack) | [![PyPI](https://flat.badgen.net/github/release/Abdur-rahmaanJ/jamstack?label=PyPi)](https://pypi.org/project/jamstack) | ![Last commit](https://img.shields.io/github/last-commit/Abdur-rahmaanJ/jamstack?&style=flat-square) | [![PyPI](https://flat.badgen.net/badge/license/MIT/blue)](https://github.com/Abdur-rahmaanJ/jamstack/blob/stable/LICENSE) |
+| [![PyPI](https://flat.badgen.net/badge/Jamstack/Python/green)](https://github.com/Abdur-rahmaanJ/jamstack) | [![PyPI](https://flat.badgen.net/github/release/Abdur-rahmaanJ/jamstack?label=PyPi)](https://pypi.org/project/jamstack) | ![Last commit](https://img.shields.io/github/last-commit/jamstackpy/jamstack?&style=flat-square) | [![PyPI](https://flat.badgen.net/badge/license/MIT/blue)](https://github.com/jamstackpy/jamstack/blob/stable/LICENSE) |
 
 ## Mis estadísticas
 
