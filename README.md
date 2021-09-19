@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/INTEL-Pentium_4_-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-1_GB-008F39?style=for-the-badge&logoColor=white"/>
 </div>
+
 ### 2014 - Present
 
 <div align="left">
