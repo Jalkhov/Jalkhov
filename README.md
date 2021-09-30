@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/RAM-1_GB-008F39?style=for-the-badge&logoColor=white"/>
 </div>
 
-### 2014 - Present
+### 2014 - 2021
 
 <div align="left">
   <img src="https://img.shields.io/badge/Canaima-MG_101A4-ED1C24?style=for-the-badge&logoColor=red"/>
@@ -57,3 +57,13 @@
   <img src="https://img.shields.io/badge/INTEL-Celeron_847-127cc1?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-2/4_GB-008F39?style=for-the-badge&logoColor=white"/>
 </div>
+
+### 2021 - Present
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Lenovo-Y560p-127cc1?style=for-the-badge&logoColor=red"/>
+  <img src="https://img.shields.io/badge/amd-AMD_MOBILITY_RADEON_HD_5000-127cc1?style=for-the-badge&logo=amd&logoColor=red"/>
+  <img src="https://img.shields.io/badge/INTEL-Core_i7_2630qm-127cc1?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-4_GB-008F39?style=for-the-badge&logoColor=white"/>
+</div>
+
