@@ -14,7 +14,16 @@
 </p>
 <hr>
 
-![Metrics](github-metrics.svg)
+## Mis estadísticas
+
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Jalkhov&theme=shades-of-purple&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalkhov&theme=radical">
+</p>
+
 
 ## Historial de hardware
 
@@ -51,3 +60,4 @@
   <img src="https://img.shields.io/badge/INTEL-Core_i7_2630qm-127cc1?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-4/6_GB-008F39?style=for-the-badge&logoColor=white"/>
 </div>
+
