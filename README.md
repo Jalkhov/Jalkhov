@@ -14,16 +14,12 @@
 </p>
 <hr>
 
-## Mis estadísticas
-
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Jalkhov&theme=shades-of-purple&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalkhov&theme=radical">
-</p>
-
+## OSU!
+<div align="center">
+<a href="https://osu.ppy.sh/users/10353020" target="_blank">
+<img src="https://osu-sig.vercel.app/card?user=Jalkhov&mode=std&lang=en&round_avatar=true&animation=true&hue=360"/>
+</a>
+</div>
 
 ## Historial de hardware
 
