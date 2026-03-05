@@ -8,13 +8,6 @@
     <a href="https://www.instagram.com/jalkhov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </div>
 
-## OSU!
-<div align="center">
-<a href="https://osu.ppy.sh/users/10353020" target="_blank">
-<img src="https://osu-sig.vercel.app/card?user=Jalkhov&mode=std&lang=en&round_avatar=true&animation=true&hue=360"/>
-</a>
-</div>
-
 ## Historial de hardware
 
 ### 2006 - 2009
