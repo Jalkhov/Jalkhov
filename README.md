@@ -27,6 +27,7 @@ Open source lover — frontend only when strictly necessary.
 | --- | --- | --- |
 | **[Rhino](https://github.com/Jalkhov/Rhino)** | Lightweight Windows antivirus with signed, offline definitions. Closed beta. | Rust · Slint · YARA |
 | **[youtube-watchmarker-redo](https://github.com/Jalkhov/youtube-watchmarker-redo)** | Community fork of Watchmarker: marks the YouTube videos you have already watched. Submitted to Mozilla Add-ons. | JavaScript |
+| **[abdm-browser-legacy-integration](https://github.com/Jalkhov/abdm-browser-legacy-integration)** | AB Download Manager integration for XUL-based browsers, tested on Pale Moon. | JavaScript |
 | **[dark-nova](https://github.com/Jalkhov/dark-nova)** | Maintained fork of Darkmoon, rebuilt around the Firefox Nova look for Pale Moon. | CSS |
 
 ## Hardware history
