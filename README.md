@@ -32,51 +32,13 @@ Open source lover — frontend only when strictly necessary.
 
 ## Hardware history
 
-### 2006 – 2009
-<div align="left">
-  <img alt="Desktop" src="https://custom-icon-badges.demolab.com/badge/Desktop-455A64?style=for-the-badge&logo=device-desktop">
-  <img alt="Intel G33/G31 Express Chipset" src="https://img.shields.io/badge/Intel-G33%2FG31%20Express%20Chipset-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="Intel Pentium E2140" src="https://img.shields.io/badge/Intel-Pentium%20E2140-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="1 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-1%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
+<sub><code>latam@jalkhov:~$ cat hardware.log</code></sub>
 
-### 2009 – 2014
-<div align="left">
-  <img alt="Desktop" src="https://custom-icon-badges.demolab.com/badge/Desktop-455A64?style=for-the-badge&logo=device-desktop">
-  <img alt="Intel Pentium 4" src="https://img.shields.io/badge/Intel-Pentium%204-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="VIA UniChrome Pro 3D" src="https://custom-icon-badges.demolab.com/badge/VIA-UniChrome%20Pro%203D-546E7A?style=for-the-badge&logo=cpu">
-  <img alt="1 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-1%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
-
-### 2014 – 2021
-<div align="left">
-  <img alt="Canaima MG101A4" src="https://custom-icon-badges.demolab.com/badge/Canaima-MG101A4-D50000?style=for-the-badge&logo=canaima">
-  <img alt="Intel Celeron 847" src="https://img.shields.io/badge/Intel-Celeron%20847-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="Intel HD Graphics" src="https://img.shields.io/badge/Intel-HD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="2 to 4 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-2%20%E2%86%92%204%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
-
-### 2021 – 2025
-<div align="left">
-  <img alt="Lenovo Y560p" src="https://img.shields.io/badge/Lenovo-Y560p-cc0000?style=for-the-badge&logo=lenovo&logoColor=white">
-  <img alt="Intel Core i7 2630QM" src="https://img.shields.io/badge/Intel-Core%20i7%202630QM-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="AMD Mobility Radeon HD 5000" src="https://img.shields.io/badge/AMD-Mobility%20Radeon%20HD%205000-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img alt="4 to 6 to 16 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-4%20%E2%86%92%206%20%E2%86%92%2016%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
-
-### 2025
-<div align="left">
-  <img alt="Desktop" src="https://custom-icon-badges.demolab.com/badge/Desktop-455A64?style=for-the-badge&logo=device-desktop">
-  <img alt="Intel Pentium G620" src="https://img.shields.io/badge/Intel-Pentium%20G620-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="Intel HD Graphics" src="https://img.shields.io/badge/Intel-HD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="6 to 16 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-6%20%E2%86%92%2016%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
-
-### 2025 – now
-<div align="left">
-  <img alt="Dell" src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white">
-  <img alt="Intel Core i5 7300U" src="https://img.shields.io/badge/Intel-Core%20i5%207300U-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="Intel HD Graphics 620" src="https://img.shields.io/badge/Intel-HD%20Graphics%20620-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img alt="16 GB of RAM" src="https://custom-icon-badges.demolab.com/badge/RAM-16%20GB-4CAF50?style=for-the-badge&logo=ram_memory">
-</div>
-
+| Years | Machine | CPU | GPU | RAM |
+| --- | --- | --- | --- | --- |
+| 2006 – 2009 | Desktop | Intel Pentium E2140 | Intel G33/G31 | 1 GB |
+| 2009 – 2014 | Desktop | Intel Pentium 4 | VIA UniChrome Pro 3D | 1 GB |
+| 2014 – 2021 | Canaima MG101A4 | Intel Celeron 847 | Intel HD Graphics | 2 → 4 GB |
+| 2021 – 2025 | Lenovo Y560p | Intel Core i7-2630QM | AMD Mobility Radeon HD 5000 | 4 → 6 → 16 GB |
+| 2025 | Desktop | Intel Pentium G620 | Intel HD Graphics | 6 → 16 GB |
+| 2025 – now | Dell | Intel Core i5-7300U | Intel HD Graphics 620 | 16 GB |
