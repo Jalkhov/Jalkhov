@@ -32,7 +32,11 @@ Open source lover — frontend only when strictly necessary.
 
 ## Hardware history
 
+<div align="center">
+
 <sub><code>latam@jalkhov:~$ cat hardware.log</code></sub>
+
+</div>
 
 | Years | Machine | CPU | GPU | RAM |
 | --- | --- | --- | --- | --- |
