@@ -29,6 +29,7 @@ Open source lover — frontend only when strictly necessary.
 | **[youtube-watchmarker-redo](https://github.com/Jalkhov/youtube-watchmarker-redo)** | Community fork of Watchmarker: marks the YouTube videos you have already watched. Submitted to Mozilla Add-ons. | JavaScript |
 | **[abdm-browser-legacy-integration](https://github.com/Jalkhov/abdm-browser-legacy-integration)** | AB Download Manager integration for XUL-based browsers, tested on Pale Moon. | JavaScript |
 | **[dark-nova](https://github.com/Jalkhov/dark-nova)** | Maintained fork of Darkmoon, rebuilt around the Firefox Nova look for Pale Moon. | CSS |
+| **[jamstack](https://github.com/jamstackpy/jamstack)** | Static site generator built on Python and Jinja. Write Markdown, ship a fast static site. | Python · Jinja |
 
 ## Hardware history
 
